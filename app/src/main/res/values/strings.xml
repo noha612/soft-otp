@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Soft OTP</string>
+    <string name="error_camera_open">Error while opening camera!</string>
+    <string name="error_permission_camera_open">No permission to open the camera</string>
+</resources>
